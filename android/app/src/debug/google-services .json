@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317004370084",
+    "project_id": "rentalsmgmt-7d375",
+    "storage_bucket": "rentalsmgmt-7d375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317004370084:android:7243da2994c75d0e5e5631",
+        "android_client_info": {
+          "package_name": "com.fred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317004370084-htqjrkv9hchjnu3sqcebjqbkgu09kfqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaEBkNN2hvs9qY-mheuKQ-TABv582Y9_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317004370084-htqjrkv9hchjnu3sqcebjqbkgu09kfqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
